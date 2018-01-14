@@ -1,0 +1,19 @@
+{
+  "name": "fetch-tutorial-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnware15/fetch-tutorial-notes.git"
+  },
+  "author": "johnware15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnware15/fetch-tutorial-notes/issues"
+  },
+  "homepage": "https://github.com/johnware15/fetch-tutorial-notes#readme"
+}
